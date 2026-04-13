@@ -1,0 +1,102 @@
+"Republic of the Philippines
+University of Science and Technology of Southern Philippines
+Alubijid | Cagayan de Oro | Claveria | Jasaan | Oroquieta | Panaon
+Laboratory Management Office – CDO Campus
+C.M Recto Avenue, Lapasan, Cagayan de Oro City",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,INVENTORY,,,,,,,,,,,,PREVENTIVE MAINTENACE,,,,,,,,,,,,,CORRECTIVE MAINTENANCE,,,,,,,,,,,,,CALIBRATION,,,,,,,,,,,,,,,,,,
+COLLEGE OF SCIENCE AND MATHEMATICS,,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,,,,,,
+"CHEMISTRY LABORATORY / 1ST, 2ND AND 5TH FLOOR SCIENCE COMPLEX BUILDING",,,,,,,,,,,,,,C - Complete,,,,,,INC - Incomplete,,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Schedule,,,,,,,,,P - Performed,,,,X - Next Calibration,,,,,,,,,,,,,,,,,,
+MACHINES/EQUIPMENT/INSTRUMENTS (MEI'S) MASTER PLAN FY 2024,,,,,,,,,,,,,,X - Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P - Performed,,,,,,,,,,,,,,,,,,
+No.,Manufacturer/Brand,Particulars/Name of MEI's,Type Model,QTY,Unit,Acquisition Aquired ,Serial No. ,Price PhP,Condition Please Put (/),,User Manual Code (0/1/A,Callibration Code (0/1),Memorandum Receipt (Name of Person),JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,CALIBRATION FREQUENCY,DATE CALIBRATED,CALIBRATION DUE ,CERTIFICATE NO.,TRACEABILITY,TYPE OF CALIBRATION,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,REMARKS/ STATUS
+,,,,,,,,,Functional,Not functional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A) Frequently Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,ADAM ,"Analytical balance, Capacity: 110-120g",PW124,1,,41925,AE4361695,85000,,/,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,Needs Check-up and Repair,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+2,  Shimadzu,"Analytical balance, Capacity: 110-120g",ATX 224,3,,42324,D307031987,110000,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+3,,,,,,,D307031988,,/,,1,,Glenn Ongayo,,C,,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+4,,,,,,,D307031989,,/,,1,,Glenn Ongayo,,C,,,,,,,,,,,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+5,Thomas Scientific ,Mechanical Convection Oven,Heratherm,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+6,,,,,,42324,41517312,114000,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,X,,,,,,,,,,,,,,,Yearly,10/27/2023,10/27/2024,2023-3808,DOST-10 RML,Outsourced,,,,,,,,,,X,,,Calibrated
+7,,,,,,,41518275,,,/,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,Need Power Supply Replacement,,,,,X,,,,X,,,,,,,,,,,,,,,Yearly,10/27/2023,10/27/2024,2023-3809,DOST-10 RML,Outsourced,,,,,,,,,,X,,,Calibrated
+8,Memmert,Mechanical Convection Oven,ULM 400,1,,39047,B 494-0803,110000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,Needs Digital Temp Sensor Replacement,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Needs Digital Temp Sensor Replacement/ Out of Service
+9,Memmert,Mechanical Convection Oven,ULM 500,1,,39047,D06061 / f500.0238,105000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,Needs Digital Temp Sensor Replacement,,,,,,,X,,,,X,,,,,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44771,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+10,Hereaus ,"Oven, Drying",T-5025,1,,34856,82-02-146,30000,/,,0,1,Allen Xerxes Mariveles,,C,,,,,,,,,,x,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+11,Philab,Fumehood,P-FG59,2,,39904,,250000,/,,0,1,Allen Xerxes Mariveles,,C,,,,,,,,,,x,Needs smoke Stacks Motor Pump Belt Replacement,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Needs Smoke Stacks Motor Pump Belt Replacement / Out of Service
+12, MarsLab,Fumehood,,3,,42315,,400000,/,,0,1,Glenn Ongayo,,C,,,,,,,,,,x,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+13,Radwag,Top-Loading Balance,WLC 1/A2,1,,39861,215139,20000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,x,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+14,A & D Company ,Top-Loading Balance,Model: GF-3000,6,,42315,TO352638    ,24000,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+15,,,,,,,TO352646,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+16,,,,,,,TO353290,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+17,,,,,,,TO352654  ,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+B)  Moderately Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Suntex ,"pH Meter, Portable",TS-1,1,,41355,110734956,24000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+19,Suntex ,"
+Hotplate Stirrer",SH 301,8,,42327,1402004692,21000,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,Needs Stirring Alignment,,,,,X,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+20,,,,,,,1402004695,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,Needs Stirring Alignment,,,,,X,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+21,,,,,,,1403004759,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,Needs Stirring Alignment,,,,,X,,,,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+22,,,,,,,1305004608,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,Needs Stirring Alignment,,,,,X,,,,,,,,P,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44776,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+23,,,,,,,1402004699,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,Needs Stirring Alignment,,,,,X,,,,,,,,P,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44775,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+24,,,,,,,1402004700,,/,,1,1,Glenn Ongayo,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44774,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+25,Gemmyco ,Vortex Mixer,VM 300,4,,42324,1414550,15000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+26,,,,,,,1414552,,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+27,,,,,,,1414557,,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Needs Thermocouple Replacement
+28,,,,,,,1414555,,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+29,Thermolyne ,Muffle Furnace,F48000,1,,39031,1285060889749,113400,,/,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,Needs Thermocouple Replacement,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+30,Vulcan ,Muffle Furnace,DKV,1,,42315,1514101V,114000,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,10/27/2023,10/27/2024,2023-3814,DOST-10 RML,Outsourced,,,,,,,,,,X,,,Calibrated
+31,Corning ,Magnetic Stirrer,PC 410D,1,,39804,365208099068,23000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44769,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+32,,,,2,,41621,155213175013,,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44768,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,,,Calibrated
+33,,,,,,,155213046018,,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44770,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+34,Cole-Parmer,"Magnetic Stirrer, 5 Stirring Positions",51450-Series,1,,1994,0385A,34000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44767,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+35,A & D Company ,Moisture Analyzer,MX-50,1,,42327,42915,43500,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44772,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+36,Ken-A-Vision,Compound Microscope,TU-12011C-230,3,,42327,120011EU 121414,12300,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+37,,,,,,,120011EU 121413,,/,,1,0,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+38,,,,,,,120011EU 121411,,/,,1,0,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+39,Gemmyco ,Centrifuge,PLC-02,2,,42327,1414546,,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44759,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+40,,,,,,,1414548,,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44758,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+41,,,,1,,41355,5588,,,/,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+42,Hach,"Conductivity Meter, Portable",Sense ION+,1,,,7245,34000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+43,Hach,"Turbidimeter, Portable",2100Q,1,,41666,13100C028876,45000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44777,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,,,Calibrated
+44,Bibby,Rotary Evaporator,RE 300,1,,39874,R000100578,123000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+45,Stuart,Rotary Evaporator,RE30013,1,,,15101470,200000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44765,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+46, Whatmann ,"Soxhlet Extraction Setup, 6 Heaters",,1,,39904,,132000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+47,Gemmyco ,"Waterbath, Electronic",YWC-010,2,,42327,1508535,36000,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,10/27/2023,10/27/2024,2023-3812,DOST-10 RML,Outsourced,,,,,,,,,,X,,,Calibrated
+48,,,,,,,1508532,,/,,,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,10/27/2023,10/27/2024,2023-3811,DOST-10 RML,Outsourced,,,,,,,,,,X,,,Calibrated
+49,All-American,"Steam Sterilizer, 5Liter Cap.",25X-2,2,,42327,E0015504  ,8900,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+50,,,,,,,E0015503,,,/,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44765,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+51,Jenway ,Colorimeter,6051,1,,42327,53526,33000,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/22/2023,11/22/2024,2023SMCS44761,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+52,Ciba Corning ,Colorimeter,257,1,,,C1796,21000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Needs Temp Controller Replacement / Out of Service
+53,Redline ,Incubator,RF 115,2,,42327,RL11-22014,89000,/,,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,Needs Temp Controller Replacement,,,,,,,X,,,,,,,,,,,,,,,,,,,Yearly,11/23/2023,11/23/2024,2023SMCS44765,Southern Metrology and Calibration Services,Outsourced,,,,,,,,,,,X,,Calibrated
+54,,,,,,,Rl11-22013,,,/,1,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,Needs Temp Controller Replacement,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+C) Rarely Used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Hach ,UV- Vis Spectrophotometer,DR-5000,1,,39861,1227861,450000,,/,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,Needs Lamp Replacement,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Needs Lamp Replacement / Out of Service
+56,Shimadzu ,Gas Chromatograph,GC2014,1,,39888,C11484607473,1400000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+57,Sineo,Microwave Digestion System,MDS-6G,1,,42324,06G464M,1450000,/,,1,1,Allen Xerxes Mariveles,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+58,Marslab,Laminar Flow,,1,,42327,,230000,/,,0,1,Fatimah Nasra Hamoy,,C,,,,,,,,,,X,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+D) Newly Acquired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TOTAL MEI's:,,,,64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Prepared by:,,,,,,,,Noted by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ALLEN XERXES T. MARIVELES,,,,,,TITA BALBIN-ALBAY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,"Leader, CSM Laboratory Technician Team",,,,,,"Head, Lab Technician Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Team Members:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,SUZETTE J. NOLASCO,,,,,,JESTONI ROSAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Laboratory Technician,,,,,,"Head, Callibration Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,YURAYA O. PALASAN,,,,,,HOLDEN CULTURA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Laboratory Technician,,,,,,"Head, Repair & Maintenance Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,ARLIZE JANE MACABINLAR,,,,,,,,Approved by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Laboratory Technician,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Dr. GINA C. LACANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,FATIMA MAE D. PEÑAS,,,,,,"Director, LMO",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Laboratory Technician,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,92 @@
+"Republic of the Philippines
+University of Science and Technology of Southern Philippines
+Alubijid | Cagayan de Oro | Claveria | Jasaan | Oroquieta | Panaon
+Laboratory Management Office – CDO Campus
+C.M Recto Avenue, Lapasan, Cagayan de Oro City",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,INVENTORY,,,,,,,,,,,,PREVENTIVE MAINTENACE,,,,,,,,,,,,,CORRECTIVE MAINTENANCE,,,,,,,,,,,,,CALIBRATION,,,,,,,,,,,,,,,,,,
+COLLEGE OF ENGINEERING & ARCHITECTURE,,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,,,,,,
+RENEWABLE ENERGY LABORATORY LRC BUILDING 23 ROOM 406A AND 406B,,,,,,,,,,,,,,C - Complete,,,,,,INC - Incomplete,,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Next Calibration,,,,,,,,,,,,,,,,,,
+MACHINES/EQUIPMENT/INSTRUMENTS (MEI'S) MASTER PLAN FY 2024,,,,,,,,,,,,,,X - Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P - Performed,,,,,,,,,,,,,,,,,,
+No.,Manufacturer/Brand,Particular's/Name of MEI's,Type Model,QTY,Unit,Aquisition Aquired ,Serial/Product No. ,Price (Php),Condition Please Put (/),,User Manual Code (0/1),Callibration Code (0/1),Memorandum Receipt (Name of Person),JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,CALIBRATION FREQUENCY,DATE CALIBRATED,CALIBRATION DUE ,CERTIFICATE NO.,TRACEABILITY,TYPE OF CALIBRATION,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,REMARKS / STATUS
+,,,,,,,,,Functional,Non-Functional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A) Frequently Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,NO BRAND,SOLAR PANEL 250 WATTS,JGM250-36-P,20,PC,NO STICKER,NO STICKER,"PART OF 5,388,000",10 FUNCTIONAL,10 NON FUCTIONAL,0,0,DR. AMBROSIO CULTURA,C ,,,,c,,,,X,,,,P,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+2,,SOLAR PANEL 200WATTS,NO MODEL,100,PC,NO STICKER,NO STICKER,"PART OF 5,388,001",/,,0,0,,C ,,,,c,,,,X,,,,P,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+3,ASPEN,DRY TYPE TRANSFORMER (230VAC TO 330VAC),ASPEN,1,PC,NO STICKER,NO STICKER ,"PART OF 5,388,001",/,,0,0,,C ,,,,c,,,,X,,,,P,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+4,,DRY TYPE TRANSFORMER (330VAC TO 230VAC),ASPEN,1,PC,NO STICKER,NO STICKER,"PART OF 5,388,001",/,,0,0,,C ,,,,c,,,,X,,,,P,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+5,SOLAX,SINGLE PHASE ON GRID INVERTER 5KW,SOLAX,2,PC,10/10/2014,14-06-03040-002,"1-LOT 883,101.74 & 1LOT 1,005,182.57",/,,1,0,,C ,,,,c,,,,X,,,,P,,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+6,DE LORENZO,THREE PHASE TRANSFORMER,DL2100TT,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+7,,DIGITAL POWER FACTOR METER,DL2109T27,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+8,,MOVING COIL AMMETER,DL2109T1AB,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+9,,MAXIMUM DEMAND METER,DL2109T29,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+10,,FREQUENCY METER,DL2109T16,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+11,,DIGITAL AC MULTIRANGE POWER METER,DL2109T26,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+12,,POWER METER,DL2109TA,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+13,,MOVING COIL AMMETER,DL2109T2A5,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+14,,VARIABLE DC POWER SUPPLY,DL2108T01,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+15,,MOVING IRON VOLMETER,DL2109T1PV,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+16,,OPTICAL TRANSCUDER,DL2031M,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+17,,SINGLE PHASE WATT METER,DL2109T17,1,PC,7/1/2015,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,C,,,x,,,,X,,,,,P,,,X,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+B)  Moderately Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,DE LORENZO,MOTOR DRIVEN POWER SUPPLY WITH AUTOMATIC REGULATION,DL1067S,2,PC,7/17/2013,13-205-009,"PART OF 1,072,354.23",/,,1,0,DR. AMBROSIO CULTURA,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+19,,THREE PHASE TRANSFORMER,D1080TT,4,PC,7/17/2013,13-205-010-1,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+20,,ELECTRIC POWER MEASURING MODULE,DL10065N,2,PC,7/17/2013,13-205-011,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+21,LENOVO,ALL IN ONE COMPUTER,LENOVO ALL IN ONE COMPUTER,2,PC,7/17/2013,13-205-019,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+22,SAMSUNG,SAMSUNG FLAT SCREEN TV ,SAMSUNG ANDROID TV,1,PC,10/10/14,14-06-03-050-002,"142,560",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+23,DE LORENZO,THREE PHASE SYNCHRONOUS MACHINE,DL1026P4,2,PC,7/17/13,13-205-005,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+24,,SLIP RING PHASE ASYNCHRONOUS MOTOR,DL1022P4,2,PC,7/17/13,13-205-020,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+25,,BRUSHLESS MOTOR CONTROLLER,DL 2108T26,2,PC,NO STICKER,NO STICKER,NO PRICE,/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+26,,POWER CIRCUIT BREAKER,DL2108T02,5,PC,7/17/13,13-205-003-1,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+27,,THREE PHASE POWER SUPPLY,DL2108TAL-SW,1,PC,7/17/13,13-205-001,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+28,,MAXIMUM DEMAND METER,DL2109T29,2,PC,7/17/13,13-205-026,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+29,,FEEDER MANAGE RELAX,DL2108T23,1,PC,7/17/13,13-205-014,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+30,,INVERTER GRID,DL9013G,1,PC,7/17/13,13-205-030,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+31,,CIRCUIT BREAKER,DL9031,1,PC,7/17/13,13-205-028,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+32,,LINE MODEL,DL7901TT,1,PC,7/17/13,13-205-038,"PART OF 1,072,354.23",,/,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+33,,LINE MODEL,DL7901TTS,1,PC,7/17/13,13-205-037,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+34,,REACTIVE POWER CONTROLLER,DL2108T19,1,PC,7/17/13,13-205-036,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+35,,SWITCHABLE CAPACITOR BATTERY,DL2108T20,1,PC,7/17/13,13-205-035,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+36,,LIGHT SOURCE,DLSIMSUN,1,PC,7/17/13,13-205-032,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+37,,PHOTOVALTAIC INCLINABLE MODULE,PHOTOVALTAIC INCLINABLE MODULE,1,PC,7/17/13,13-205-031,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+38,,CAPACITIVE LOAD ,DL1017C,2,PC,7/17/13,13-205-042,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+39,,RESISTIVE LOAD,DL1017R,2,PC,7/17/13,13-205-13,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+40,,INDUCTIVE LOAD,DL1017L,2,PC,7/17/13,13-205-041,"PART OF 1,072,354.23",/,,1,0,,,C,,,,,X,,,,,,,P,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+41,,COMUNICATION MOBDUS,DLHUBRS485F,2,PC,7/1/15,14-06-030-050-003,"PART OF 3,503,802.92",/,,1,0,,,C,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+42,,MULTIFUNCTION DIGITAL SYSTEM,DL55060T,1,PC,7/1/15,"15
+-06-05-030-001","PART OF 3,503,802.92",/,,1,0,,,,,c,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+43,,EXPIREMENT TRANSFORMER,DL1055TT,1,PC,7/1/15,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,,c,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+44,,PHASE SEQUENCE INDICATOR,DL2109T2T,1,PC,7/1/15,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,,c,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+45,,SYNCROSCOPE,DL2109T32,1,PC,7/1/15,NO STICKER,"PART OF 3,503,802.92",/,,1,0,,,,,c,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+46,,SYNCRONIZATION INDICATOR,DL2109T1T,1,PC,7/1/15,14-06-030-050-002,"PART OF 3,503,802.92",/,,1,0,,,,,c,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+47,,GENERATOR SYNCHRONISING RELAY,DL2108T25,1,PC,7/1/15,14-06-030-050-003,"PART OF 3,503,802.92",/,,1,0,,,,,c,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+48,,VARIABLE DC POWER SUPPLY,DL1013T2,1,PC,7/1/15,14-06-03-050-002,"PART OF 3,503,802.92",/,,1,0,,,,,c,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+C) Rarely Used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,NO BRAND,WIND TURBINE 300WATTS,NO MODEL,1,PC,NO STICKER,NO STICKER,NO PRICE,/,,1,0,DR. AMBROSIO CULTURA,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+50,,WIND TURBINE 600WATTS,NO MODEL,1,PC,NO STICKER,NO STICKER,NO PRICE,/,,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+51,GROWATT,INVERTER,GROWATT PV INVERTER,1,PC,NO STICKER,NO STICKER,NO PRICE,/,,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+52,PURE SINE,INVERTER,PURE SINE WAVE INVERTER,1,PC,10/10/2014,14-06-00-050-002,883101.47,/,,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+53,ASPEN,CHARGE CONTROLLER(60A),MPPT CHARGE CONTROLLER (60A),4,PC,2013,13-205-001,"PART OF 5,388,000",/,,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+54,,CHARGE CONTROLLER(80A),MPPT CHARGE CONTROLLER (80A),1,PC,2013,13-205-001,"PART OF 5,388,000",/,,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+55,,SINGLE PHASE OFF GRID INVERTER 5KW,ASPEN,1,PC,2013,13-205-001,"PART OF 5,388,000",/,,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+56,,THREE PAHSE OFF GRID INVERTER 15KW,ASPEN,1,PC,2013,13-205-001,"PART OF 5,388,000",/,,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+57,JSL,LED ACID BATTERIES 12VDC AT 250AH,JSL,26,PC,2013,13-205-001,"PART OF 5,388,000",6 FUNCTIONAL,20 DEFECTIVE,1,0,,,,,,,,,,,,,X,,,,,,,,,,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for Calibration
+TOTAL MEI'S:,,,,222,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D) Newly Acquired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Prepared by:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ARVIE JAMES APUGAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ Laboratory Technician,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Head, Laboratory Technician Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TITA BALBIN-ALBAY,,,HOLDEN CULTURA,,,JESTONI ROSAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Head, Laboratory Technician Unit",,,"Head, Repair & Maintenance Unit",,,"Head, Callibration Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Approved by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DR. GINA C. LACANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Director, LMO",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

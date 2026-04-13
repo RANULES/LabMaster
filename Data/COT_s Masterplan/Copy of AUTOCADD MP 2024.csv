@@ -1,0 +1,99 @@
+__,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,INVENTORY,,,,,,,,,,,,PREVENTIVE MAINTENACE,,,,,,,,,,,,,CORRECTIVE MAINTENANCE,,,,,,,,,,,,,CALIBRATION,,,,,,,,,,,,,,,,,,
+COLLEGE OF TECHNOLOGY,,,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,,,,,,
+AUTOCADD LABORATORY BUILIDNG 44 & ROOM 203,,,,,,,,,,,,,,,C - Complete,,,,,,INC - Incomplete,,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Next Calibration,,,,,,,,,,,,,,,,,,
+MACHINES/EQUIPMENT/INSTRUMENTS (MEI'S) MASTER PLAN FY 2024,,,,,,,,,,,,,,,X - Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P - Performed,,,,,,,,,,,,,,,,,,
+No.,Coding,Manufacturer/Brand,Particular's/Name of MEI's,Type Model,QTY,Unit,Aquisition Aquired ,Serial/Product No. ,Price (Php),Condition Please Put (/),,User Manual Code (0/1),Callibration Code (0/1),Memorandum Receipt (Name of Person),JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,CALIBRATION FREQUENCY,DATE CALIBRATED,CALIBRATION DUE ,CERTIFICATE NO.,TRACEABILITY,TYPE OF CALIBRATION,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,REMARKS / STATUS
+,,,,,,,,,,Functional,Non-Functional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A) Frequently Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1,acer,Monitor 19''.5 LED (ACER) with accesories,,33,,,MMLZ3SS-01250406-830-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+2,2,,(Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-5E8-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+3,3,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-276-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+4,4,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-47D-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+5,5,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-167-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+6,6,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-62A-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+7,7,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-832-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+8,8,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-7A5-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+9,9,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-143-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+10,10,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-7E1-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+11,11,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3SS-01250406-54B-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+12,12,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-471-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+13,13,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-5DA-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+14,14,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-2DB-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+15,15,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-2D4-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+16,16,SAMSUNG,(Monitor  LED (SAMSUNG) with accesories,,,,,G063HYCF702617W,NO STICKER,/,,0,0,NO STICKER,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+17,17,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3S-01250406-1B7-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+18,18,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-7CB-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,C,,X,,X,,,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+19,19,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-411-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,,X,,X,,X,,X,,,,P,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+20,20,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-78B-2415 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,,,P,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+21,21,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-324-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+22,22,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-2F2-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+23,23,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-18D-2415 NO TAG,NO STICKER,,/,0,0,NO STICKER,INC,,INC,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+24,24,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-401-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+25,25,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-798-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+26,26,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3S-01250406-665-2415,NO STICKER,/,,0,0,NO STICKER,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+27,27,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3SS-01250406-4E8-2415 NO TAG,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+28,28,,Monitor 19''.5 LED (ACER) with accesories,,,,,MMLZ3SS-01250406-7F4-2415 NO TAG,NO STICKER,/,,0,0,NO STICKER,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+29,29,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-3AC-2415 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+30,30,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-567-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+31,31,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-591-2415,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,P,,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+32,32,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-59F-2415  ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,P,,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+33,33,,Monitor 19''.5 LED (ACER) with accesories,,,,01/30/2016,MMLZ3S-01250406-585-2415 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,P,,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+34,1,"Acer Extensa M2610,Intel cor i3","System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,33,,01/30/2016,DTX0CSPO-1153-90219E-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+35,2,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-4000E55-9600,25545.8,,/,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+36,3,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-90218C-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+37,4,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-90219A-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+38,5,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,DTX0CSPO-1154-000E08-9600 NO TAG,NO STICKER,/,,0,0,NO STICKER,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+39,6,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-9021C6-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+40,7,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,DTX0CSPO-1154-000E0-9600 NO TAG,NO STICKER,/,,0,0,NO STICKER,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+41,8,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,DTX0CSPO-1154-000E45-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+42,9,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,DTX0CSPO-1154-000E3F-9600,,/,,0,0,NO STICKER,C,,C,,X,,X,,X,,X,,,,P,,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+43,10,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-9021A8-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+44,11,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1154-00E88-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+45,12,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-902199-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+46,13,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,NO TAG,NO STICKER,/,,0,0,NO STICKER,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+47,14,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-90218F-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+48,15,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1154-000E37-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+49,16,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-902193-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+50,17,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-902234-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+51,18,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-902194-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,X,,X,,X,,X,,,,,P,P,,X,,X,,X,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+52,19,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1154-000E7A-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,,,P,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+53,20,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-90221A-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,,,P,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+54,21,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,DTX0CSPO-1153-9021CA-9600 NO TAG,,/,,0,0,,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+55,22,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1154-000E7D-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+56,23,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1154-39021B0-9600,25545.8,,/,0,0,VIMA SOCORO TANDOG,INC,,INC,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+57,24,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1154-000E56-9600 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+58,25,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTXOCSPO-1153-902202-9600,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+59,26,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-90220A-9600  ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+60,27,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-90219C-9600 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+61,28,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/29/2016,DTX0CSPO-1154-00E34-9600 ,25545.8,/,,0,0,DR.CONCORDIO NAMOCO,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+62,29,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1154-00E94-9600 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+63,30,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-902201-9600 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,,P,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+64,31,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,DTX0CSPO-1154-00ED49-9600 NO TAG,NO STICKER,/,,0,0,NO STICKER,C,,C,,,X,,X,,X,,X,P,,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+65,32,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,01/30/2016,DTX0CSPO-1153-9021FF-9600 ,25545.8,/,,0,0,VIMA SOCORO TANDOG,C,,C,,,X,,X,,X,,X,P,,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+66,33,,"System Unit (Acer Extensa M2610), MOUSE & KEYBOARD",,,,,NO TAG,NO STICKER,/,,0,0,NO STICKER,C,,C,,,X,,X,,X,,X,P,,,,,X,,X,,X,,X,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+TOTAL MEI'S:,,,,,66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+B)  Moderately Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C) Rarely Used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D) Newly Acquired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Prepared by:,,,,Noted by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GENETH G. CATURAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ Laboratory Technician,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Noted by:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TITA BALBIN-ALBAY,,,,,HOLDEN CULTURA,,,JESTONI ROSAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Head, Laboratory Technician Unit",,,,,"Head, Repair & Maintenance Unit",,,"Head, Callibration Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Approved by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DR. GINA C. LACANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Director, LMO",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

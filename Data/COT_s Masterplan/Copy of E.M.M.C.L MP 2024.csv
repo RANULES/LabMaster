@@ -1,0 +1,182 @@
+"Republic of the Philippines
+University of Science and Technology of Southern Philippines
+Alubijid | Cagayan de Oro | Claveria | Jasaan | Oroquieta | Panaon
+Laboratory Management Office – CDO Campus
+C.M Recto Avenue, Lapasan, Cagayan de Oro City",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,INVENTORY,,,,,,,,,,,,PREVENTIVE MAINTENACE,,,,,,,,,,,,,CORRECTIVE MAINTENANCE,,,,,,,,,,,,,CALIBRATION,,,,,,,,,,,,,,,,,,
+,COLLEGE OF TECHNOLOGY,,,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,,,,,,
+,ELECTRICAL MACHINES AND MOTOR CONTROL LABORATORY BUILIDNG 44 & ROOM 204,,,,,,,,,,,,,,,C - Complete,,,,,,INC - Incomplete,,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Next Calibration,,,,,,,,,,,,,,,,,,
+,MACHINES/EQUIPMENT/INSTRUMENTS (MEI'S) MASTER PLAN FY 2024,,,,,,,,,,,,,,,X - Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P - Performed,,,,,,,,,,,,,,,,,,
+No.,No. CODING,Manufacturer/Brand,Particular's/Name of MEI's,Type Model,QTY,Unit,Aquisition Aquired ,Serial/Product No. ,Price (Php),Condition Please Put (/),,"Status (Inactive, Active, Defective)",User Manual Code (0/1),Callibration Code (0/1),Memorandum Receipt (Name of Person),JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,CALIBRATION FREQUENCY,DATE CALIBRATED,CALIBRATION DUE ,CERTIFICATE NO.,TRACEABILITY,TYPE OF CALIBRATION,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,REMARKS / STATUS
+,,,,,,,,,,Functional,Non-Functional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A) Frequently Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,1,EDIBON,MODULAR TRAINER (AC MOTORS),,1,,8/20/2015,AEL-A120001/14  ,1999000,/,,ACTIVE,1,0,ENGR. ROMANO PIMENTEL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+2,2,,INDUSTRIAL MAIN POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+3,3,,VARIABLE  POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+4,4,,3 DOUBLE CHAMBER PUSH-BUTTONS,,2,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+5,4.1,,3 DOUBLE CHAMBER PUSH-BUTTONS,,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+6,5,,AUXILIARY LAMPS,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+7,6,,3-POLES CONTRACTOR (24Vac),,4,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+8,6.1,,3-POLES CONTRACTOR (24Vac),,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+9,6.2,,3-POLES CONTRACTOR (24Vac),,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+10,6.3,,3-POLES CONTRACTOR (24Vac),,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+11,7,,THERMAL RELAY,,2,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+12,7.1,,THERMAL RELAY,,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+13,8,,MODULE WITH DISJUNCTOR,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+14,9,,"4-POLE MAGNETO-THERMAL AUTOMATIC SWITCH 4A,CURVE C",,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+15,10,,MODULE WITH 3 FUSE-HOLDERS AND POWER FUSES,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+16,11,,CAPACITIVE LOAD (CUSTOM MADE),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+17,12,,SYCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+18,13,,FREQUENCY VARIATOR,,1,,8/20/2015,,,,/,INACTIVE,1,0,,INC,,,,INC,,,,x,,,,,P,,,,x,,,,x,,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+19,14,,MODULAR TRAINER (AC MOTORS),,1,,8/20/2015,AEL-A120002/14 ,1999000,/,,ACTIVE,1,0,,,,,,,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+20,15,,INDUSTRIAL MAIN POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+21,16,,VARIABLE  POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+22,17,,3 DOUBLE CHAMBER PUSH-BUTTONS,,2,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+23,17.1,,3 DOUBLE CHAMBER PUSH-BUTTONS,,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+24,18,,AUXILIARY LAMPS,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+25,19,,3-POLES CONTRACTOR (24Vac),,4,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+26,19.1,,3-POLES CONTRACTOR (24Vac),,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+27,19.2,,3-POLES CONTRACTOR (24Vac),,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+28,19.3,,3-POLES CONTRACTOR (24Vac),,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+29,20,,THERMAL RELAY,,2,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+30,20.1,,THERMAL RELAY,,,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+31,21,,MODULE WITH DISJUNCTOR,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+32,22,,"4-POLE MAGNETO-THERMAL AUTOMATIC SWITCH 4A,CURVE C",,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+33,23,,MODULE WITH 3 FUSE-HOLDERS AND POWER FUSES,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+34,24,,CAPACITIVE LOAD (CUSTOM MADE),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+35,25,,SYCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+36,26,,FREQUENCY VARIATOR,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+37,27,,MODULAR TRAINER FOR ELECTRONICS (COMPLETE OPTION),,1,,8/20/2015,AEL-AI130001/14 ,1999000,,/,ACTIVE,1,0,,INC,,,,INC,,,,x,,,,,P,,,,x,,,,x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+38,28,,ELECTROMAGNETISM KITS WITH GROUP OF MOTOR/GENERATOR,,1,,8/20/2015,,,,/,INACTIVE,1,0,,INC,,,,INC,,,,x,,,,,P,,,,x,,,,x,,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+39,29,,RELAYS MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+40,30,,LIGHTING MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+41,31,,INDUCTANCES MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+42,32,,CAPACITORS MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+43,33,,RECTIFIER DIODES MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+44,34,,RESISTIVE COMPONENTS MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+45,35,,INDUSTRIAL MAIN POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+46,36,,POWER SUPPLY MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+47,37,,FLUORESCENT LAMP,,1,,8/20/2015,,,/,,ACTIVE,1,0,,INC,,,,INC,,,,x,,,,,P,,,,x,,,,x,,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+48,38,,DIGITAL MULTIMETER,,0,,8/20/2015,,,,/,INACTIVE,1,0,,INC,,,,INC,,,,x,,,,,P,,,,x,,,,x,,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+49,39,,MODULAR TRAINER FOR ELECTRONICS (COMPLETE OPTION),,1,,8/20/2015,AEL-AI130002/14 ,1999000,/,,INACTIVE,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+50,40,,ELECTROMAGNETISM KITS WITH GROUP OF MOTOR/GENERATOR,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+51,41,,RELAYS MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+52,42,,LIGHTING MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+53,43,,INDUCTANCES MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+54,44,,CAPACITORS MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+55,45,,RECTIFIER DIODES MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+56,46,,RESISTIVE COMPONENTS MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+57,47,,INDUSTRIAL MAIN POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+58,48,,POWER SUPPLY MODULE,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,C,,,,x,,,,,P,,,,x,,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+59,49,,FLUORESCENT LAMP,,1,,8/20/2015,,,,/,INACTIVE,1,0,,C,,,,C,,,,x,,,,,,,,,,,,,,,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+60,50,,DIGITAL MULTIMETER,,0,,8/20/2015,,,,/,INACTIVE,1,0,,INC,,,,INC,,,,x,,,,,,,,,,,,,,,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+61,51,,"STAR DELTA STARTER, INDUSTRIAL MAIN POWER ",,1,,8/20/2015,AEL-ACINA0002/14 ,1999000,/,,ACTIVE,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+62,52,,THREE-PHASE AUTOTRANSFORMER,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+63,53,,MANUAL STAR DELTA STARTER,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+64,54,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+65,54.1,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+66,54.2,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+67,54.3,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+68,55,,SYNCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+69,55.1,,SYNCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+70,55.2,,SYNCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+71,56,,AUXILIARY LAMPS (3LAMPS),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+72,57,,INDUSTRIAL MAIN POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+73,58,,VARIABLE POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+74,59,,3 DOUBLE PUSH-BUTTONS,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+75,60,,DIRECT STARTER W/ INVERSION,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+76,61,,"STAR DELTA STARTER, INDUSTRIAL MAIN POWER ",,1,,8/20/2015,AEL-ACINA0003/14,1999000,/,,ACTIVE,1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+77,62,,THREE-PHASE AUTOTRANSFORMER,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+78,63,,MANUAL STAR DELTA STARTER,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+79,64,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+80,64.1,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+81,64.2,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+82,64.3,,POLE CONTRACTOR (24VAC),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+83,65,,SYNCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+84,65.1,,SYNCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+85,65.2,,SYNCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+86,65.3,,SYNCHRONIZATION RELAY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+87,66,,AUXILIARY LAMPS (3LAMPS),,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+88,67,,INDUSTRIAL MAIN POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+89,68,,VARIABLE POWER SUPPLY,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+90,69,,3 DOUBLE PUSH-BUTTONS,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+91,70,,DIRECT STARTER W/ INVERSION,,1,,8/20/2015,,,/,,ACTIVE,1,0,,C,,,,,x,,,x,,,,,P,,,,,x,,,x,,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+B)  Moderately Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,71,,"RESISTIVE , INDUCIVE AND CAPACITANCE LOAD MODULE",,2,,8/20/2015,RCL3R0105/13  ,"PART OF 3,595,000",/,,ACTIVE,0,0,ENGR. ROMANO PIMENTEL,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+93,71.1,,"RESISTIVE , INDUCIVE AND CAPACITANCE LOAD MODULE",,,,8/20/2015,RCL3R0107/13,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+94,72,,AC MOTORS SPEED CONTROLLER/M,,3,,8/20/2015,VVCAM009/14 ,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+95,72.1,,AC MOTORS SPEED CONTROLLER/M,,,,8/20/2015,VVCAM007/14 ,"PART OF 3,994,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+96,72.2,,AC MOTORS SPEED CONTROLLER/M,,,,8/20/2015,VVCAM008/14,"PART OF 1,860,000",,/,ACTIVE,0,0,,,,,INC,,,x,,,x,,,,,,,P,,,x,,,x,,NOT FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+97,73,,DC MOTORS SPEED CONTROLLER/M,,3,,8/20/2015,"VVCCMI10012/14
+",no sticker,/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+98,73.1,,DC MOTORS SPEED CONTROLLER/M,,,,8/20/2015,VVCAM0010/14 ,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+99,73.2,,DC MOTORS SPEED CONTROLLER/M,,,,8/20/2015,WCCM0011/14,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+100,74,,VELOCITY CONTROL FOR STEPPER MOTOR/B,,1,,8/20/2015,VVPPP0007/14,"PART OF 3,994,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+101,75,,UNIVERSAL MOTOR,,4,,8/20/2015,EMT12032/14,"PART OF 1,999,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+102,75.1,,UNIVERSAL MOTOR,,,,8/20/2015,EMT0133/14,"PART OF 1,999,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+103,75.2,,UNIVERSAL MOTOR,,,,8/20/2015,EMT120131/14,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+104,75.3,,UNIVERSAL MOTOR,,,,8/20/2015,EMT120130/14,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+105,76,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING AND RUNNING CAPACITOR,,6,,8/20/2015,"EMT160064/12 
+","PART OF 1,999,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+106,76.1,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING AND RUNNING CAPACITOR,,,,8/20/2015,EMT160069/12,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+107,76.2,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING AND RUNNING CAPACITOR,,,,8/20/2015,EMT160066/12,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+108,76.3,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING AND RUNNING CAPACITOR,,,,8/20/2015,EMT160094/12,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+109,76.4,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING AND RUNNING CAPACITOR,,,,8/20/2015,EMT160065/12,no sticker,/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+110,76.5,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING AND RUNNING CAPACITOR,,,,8/20/2015,EMT160068/12,no sticker,/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+111,77,,NETWORK ANALYZER UNIT,,2,,8/20/2015,EAL0059/14,no sticker,/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+112,77.1,,NETWORK ANALYZER UNIT,,,,8/20/2015,EAL0060/14,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+113,78,,ASYNCHRONOUS THREE-PHASE DAHLANDER MOTOR,,2,,8/20/2015,EMT90077/12 ,"PART OF 1,999,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+114,78.1,,ASYNCHRONOUS THREE-PHASE DAHLANDER MOTOR,,,,8/20/2015,EMT90078/12,"PART OF 1,999,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+115,79,,ASYNCHRONOUS THREE-PHASE MOTOR OF SQUIRREL CAGE,,6,,8/20/2015,EMT70317/14,no sticker,/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+116,79.1,,ASYNCHRONOUS THREE-PHASE MOTOR OF SQUIRREL CAGE,,,,8/20/2015,EMT70315/14,"PART OF 1,999,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+117,79.2,,ASYNCHRONOUS THREE-PHASE MOTOR OF SQUIRREL CAGE,,,,8/20/2015,EMT70304/14,"PART OF 3,994,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+118,79.3,,ASYNCHRONOUS THREE-PHASE MOTOR OF SQUIRREL CAGE,,,,8/20/2015,EMT70307/15,"PART OF 1,999,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+119,79.4,,ASYNCHRONOUS THREE-PHASE MOTOR OF SQUIRREL CAGE,,,,8/20/2015,EMT70308/14,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+120,79.5,,ASYNCHRONOUS THREE-PHASE MOTOR OF SQUIRREL CAGE,,,,8/20/2015,00022/11,no sticker,/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+121,80,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING CAPACITOR,,2,,8/20/2015,EMT11022/11,no sticker,/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+122,80.1,,ASYNCHRONOUS SINGLE-PHASE MOTOR WITH STARTING CAPACITOR,,,,8/20/2015,EMT11021/11,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+123,81,,AC SYNCHRONOUS THREE-PHASE MOTOR ALTERNATOR,,2,,8/20/2015,EMT60065/14,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+124,81.1,,AC SYNCHRONOUS THREE-PHASE MOTOR ALTERNATOR,,,,8/20/2015,EMT60066/14,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+125,82,,ELECTRONIC BRAKE (MOTOR),,1,,8/20/2015,FREFE 0025/13,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+126,83,,DC SHUNT-SERIES COMPOUND EXCITATION MOTOR,,1,,8/20/2015,EMT50120/11,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,x,,,x,,,,,,,P,,,x,,,x,,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+127,84,,THREE-PHASE RELUCTANCE MOTOR,,1,,8/20/2015,EMT210019/12,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,,x,,,x,,,,,,,x,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+128,85,,DC MOTOR SHUNT EXCITATION MOTOR GENERATOR,,1,,8/20/2015,EMT30023/12,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,,x,,,x,,,,,,,x,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+129,86,,DC MOTOR SERIES EXCITATION  MOTOR GENERATOR,,1,,8/20/2015,EMT12016/12,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,,x,,,x,,,,,,,x,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+130,87,,THREE-PHASE ASYNCHRONOUS MOTOR WITH WOUND ROTOR,,2,,8/20/2015,EMT80024/09,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,,x,,,x,,,,,,,x,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+131,87.1,,THREE-PHASE ASYNCHRONOUS MOTOR WITH WOUND ROTOR,,,,8/20/2015,EMT80030/09,"PART OF 3,595,000",/,,ACTIVE,0,0,,,,,C,,,,x,,,x,,,,,,,x,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+132,88,,ELECTRICAL MACHINES UNIT/B,,1,,8/20/2015,EMEB0051/13,"PART OF 1,860,000",/,,ACTIVE,0,0,,,,,C,,,,x,,,x,,,,,,,x,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+C) Rarely Used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+133,89,,SINGLE-PHASE TRANSFORMER,,1,,8/20/2015,TRANS0018/10,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+134,90,,THREE-PHASE TRANSFORMER,,5,,8/20/2015,280010/14 ,"PART OF 1,999,000",/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+135,90.1,,THREE-PHASE TRANSFORMER,,,,8/20/2015,28009/14,"PART OF 1,999,000",/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+136,90.2,,THREE-PHASE TRANSFORMER,,,,8/20/2015,no sticker,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+137,90.3,,THREE-PHASE TRANSFORMER,,,,8/20/2015,no sticker,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+138,90.4,,THREE-PHASE TRANSFORMER,,,,8/20/2015,no sticker,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+139,91,,ELECTRONIC BRAKE,,1,,8/20/2015,FREFE 0025/12,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+140,92,,UNIVERSAL MODULE DATA ADQUISITION,,1,,8/20/2015,MUAD0041/13,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+141,93,,FLYWHEEL,,2,,8/20/2015,no sticker,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+142,93.1,,FLYWHEEL,,,,8/20/2015,no sticker,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+143,94,,EMT-KIT,,1,,8/20/2015,EMTKIT0006/11,"PART OF 3,994,000",/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+144,95,,VARIABLE AUTO-TRANSFORMER,,1,,8/20/2015,AUTR0054/14,"PART OF 3,595,000",/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+145,96,,ELECTRICAL MACHINE/M,,1,,8/20/2015,no sticker,,/,,ACTIVE,0,0,,,C,,,,,,x,,,x,,,P,,,,,,,x,,,x,FUNCTIONAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+TOTAL MEI'S:,,,,,143,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D) Newly Acquired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Prepared by:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+GENETH G. CATURAN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ Laboratory Technician,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Noted by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TITA BALBIN-ALBAY,,,HOLDEN CULTURA,,JESTONI ROSAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Head, Laboratory Technician Unit",,,"Head, Repair & Maintenance Unit",,"Head, Callibration Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Approved by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DR. GINA C. LACANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Director, LMO",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

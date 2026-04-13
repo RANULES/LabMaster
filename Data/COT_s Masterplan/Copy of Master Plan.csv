@@ -1,0 +1,184 @@
+"Republic of the Philippines
+University of Science and Technology of Southern Philippines
+Alubijid | Cagayan de Oro | Claveria | Jasaan | Oroquieta | Panaon
+Laboratory Management Office – CDO Campus
+C.M Recto Avenue, Lapasan, Cagayan de Oro City",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,INVENTORY,,,,,,,,,,,,PREVENTIVE MAINTENACE,,,,,,,,,,,,,CORRECTIVE MAINTENANCE,,,,,,,,,,,,,CALIBRATION,,,,,,,,,,,,,,,,,,
+NAME OF COLLEGE,,,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,,,,,,
+NAME OF LABORATORY BUILIDNG NUMBER & ROOM NUMBER,,,,,,,,,,,,,,,C - Complete,,,,,,INC - Incomplete,,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Next Calibration,,,,,,,,,,,,,,,,,,
+MACHINES/EQUIPMENT/INSTRUMENTS (MEI'S) MASTER PLAN FY 2024,,,,,,,,,,,,,,,X - Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P - Performed,,,,,,,,,,,,,,,,,,
+No.,Manufacturer/Brand,Particular's/Name of MEI's,Type Model,QTY,Unit,Aquisition Aquired ,Serial/Product No. ,Price (Php),Condition Please Put (/),,"Status (Inactive, Active, Defective)",User Manual Code (0/1),Callibration Code (0/1),Memorandum Receipt (Name of Person),JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,CALIBRATION FREQUENCY,DATE CALIBRATED,CALIBRATION DUE ,CERTIFICATE NO.,TRACEABILITY,TYPE OF CALIBRATION,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,REMARKS / STATUS
+,,,,,,,,,Functional,Non-Functional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A) Frequently Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,FESTO,Distribution Station,,,,"March 10, 2015",15 06 05 030-008,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Testing Station,,,,"March 10, 2015",15 06 05 030-008,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Processing Station,,,,"March 10, 2015",15 06 05 030-008,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Handling Processing Station,,,,"March 10, 2015",15 06 05 030-008,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Sorting Station,,,,"March 10, 2015",15-06 05 030-008,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Handling Sorting  Station,,,,"March 10, 2015",15-06 05 030-013,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Robotic System (Mitsubishi),,,,"March 10, 2015",15-06 05 030-009,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Assembly station,,,,"March 10, 2015",15-06 05 030-009,"P 5,299,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Conveyor System,,,,"March 10, 2015",15 06 05 030-001A,"P 1,899,000.00",/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Vision Inspection Station,,,,"March 10, 2015",15-06 05 030-012,"P 979,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Automation Suite for Robot and Mechatronics System and Handling Station,,,,"March 10, 2015",15-06 05 030-013,"P 4,339,000.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Instrumentation and Process Control Compact Workstation,,,,"March 10, 2015",15-06 05 030-006A,"P 1, 799, 500.00",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,FESTO,Instrumentation and Process Control Compact Workstation,,,,"March 10, 2015",15-06 05 030-006,"P 1, 799, 500.00",/,,Active,1,1,Engr. Camilo Jose Salvaña,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,Planet Air,Compressor: Silent type,,,,"March 10, 2015",000936386,"P 5,299,000.00 (Part of)",/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,Planet Air,Compressor: Silent type,,,,"March 10, 2015",0093684,,/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,Planet Air,Compressor: Silent type,,,,"March 10, 2015",000936385,,/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,Planet Air,Compressor: Silent type,,,,"March 10, 2015",000936388,,/,,Active,1,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,Planet Air,Compressor: Silent type,,,,"March 10, 2015",000936383,,/,,Active,,1,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+,,Sensors for object detection,,,,,15-06 05 030-015,"P 1, 809, 000.00 (Part of)",,,,,,,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,FESTO,"Proximity sensor, magneto-resistive",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Proximity sensor, inductive M12",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Proximity sensor, inductive M18",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"One-way light barrier, receiver",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"One-way light barrier, transmitter",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Fibre-optic unit,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Fibre-optic cable,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Reflector (triple mirror), 20mm",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Diffuse sensor w/ background suppression,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Slide unit,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Set of Test Objects,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Basic Pneumatics Package ,,,,,,,,,,,,,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"3/2 way valve w/ PB actuator, NC",,,,"March 10, 2015",,"P 704, 000.00",/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"3/2 way valve w/ PB actuator,",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,5/2 way valve w/ selector switch,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"3/2 way valve w/selector switch,normally closed",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"3/2 way roller lever valve, normally closed",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Proximity switch, pneumatic w/cylinder attachment",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Pneumatic timer, normally closed ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Pressure sequence valve ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"3/2 way pneumatic valve, pneumatically actuated, one side ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"5/2 way valve, pneumatically actuated, one side ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"5/2 way double pilot valve, pneumatically actuated, both sides",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Shuttle valve (OR) ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Dual-pressure valve (AND),,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Quick exhaust valve,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,One-way flow control valve,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Single-acting cylinder ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Double-acting cylinder ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Start-up valve w/ filter control valve  ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Pressure regulator valve with pressure gauge,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Manifold,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Basic Electro-Pneumatics ,,,,,,,,,,,,,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Signal input, electric ",,,,"March 10, 2015",,"P 1, 299, 000.00",/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Relay, Three fold",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Limit switch, electrical, right-actuated ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Limit switch, electrical, left-actuated ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Proximity sensor, optical, M12 ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Electronic proximity sensor w/ cylinder attachment,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"2x3/2 way solenoid valve w/ LED, NC ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,5/2 way solenoid valve w/ LED ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,5/2 way double solenoid valve w/ LED ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Pressure sensor w/ display ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated
+,FESTO,One-way flow control valve,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Single-acting cylinder,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Double-acting cylinder ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Start-up valve w/ filter control valve ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Manifold ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,4mm safety Laboratory Cables,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Power supply,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Preset counter, electronic",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Time Relay, 2 Fold",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Systainer/Container with components tray,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Basic Electro-Hydraulics,,,,,,,,,,,,,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,FESTO,Pressure relief valve  ,,,,"March 10, 2015",,"P 2, 699, 000.00",/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated
+,FESTO,2-way flow control valve,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,1-way flow control valve ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Non-return valve  ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"4/3 way solenoid valve, closed mid-position ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"4/2 way double solenoid valve, detenting ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Shut-off valve ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Weight for cylinder (9kg),,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Differential cylinder with cover,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Mounting kit for cylinders,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,T-distributor,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,4-way distributor w/ pressure gauge,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Pressure gauge ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated
+,FESTO,"Pressure switch, electronic ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Relay, three fold",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Signal input, electrical ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Limit switch, electrical, left-actuated ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Limit switch, electrical, right-actuated ",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Proximity sensor, electronic",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Hose line w/ quick release couplings      ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Safety laboratory cables ,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Laboratory Workstation with Aluminum Profile 700x1100m and ER Frame,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,"Hydraulic power pack w/ constant-displacement pump, 230 V",,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Power supply unit for mounting frame,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,FESTO,Tabletop power supply unit,,,,"March 10, 2015",,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+B)  Moderately Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"Signal input , electrical  ",,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"3/2 way valve w/ PB actuator,
+NC",,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"2 x 3/2 way solenoid valve w/ LED, NC ",,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,One-way flow control valve,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,On-off valve w/ filter/regulator ,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,PID controller ,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Comparator,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"Pressure sensor, analog ",,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"5/3 way solenoid valve, mid position closed ",,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Air pressure reservoir,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Status controller ,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"Linear drive, pneumatic, w/ guide and accessories ",,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Position encoder ,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Ruler ,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Weight for linear drive (5 kg),,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,16 Digital/Analogue I/O Compact PLC Educational Trainer ,,,,,,,/,,Active,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+C) Rarely Used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,Robotic Starter kit,,,,"March 10, 2015",PA108557,"P 359, 000.00",/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,Robotic Starter kit,,,,"March 10, 2015",HC1107234,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,Robotic Starter kit,,,,"March 10, 2015",HB6712062,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,Robotic Starter kit,,,,"March 10, 2015",HC1107233,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Vacuum Technology,,,,,,,,,,,,,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Air Pressure reservoir,,,,"March 10, 2015",15-06 05 030-015,"P 1, 809, 000.00 (Part)",/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Pressure switch,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"Vacuum generator, type H",,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"Vacuum generator, type L",,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Non-return valve,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,"Non-return valve, delockable",,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Suction gripper 30 SN,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Suction gripper 20 SS,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Suction gripper 30 SS,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Suction gripper 20 CS w/ vacuum security valve,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Suction gripper 4x20 Oval,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Flow Control Valve,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,Tabletop Power Supply,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Festo,4mm Safety Laboratory Cables,,,,"March 10, 2015",,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,"Data Acquisition Device, NI myRIO Starter kit & Mechatronics kit",,2,Set,"March 10, 2015",306F910,"P 1, 494, 000.00",/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3073CFE,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",306F238,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",305F503,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3069847,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3069843,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3073D0A,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",306FAB9,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",306983B,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3069826,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",306F95A,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3062076,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3069833,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3073C9F,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",306F391,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",306F3D3,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3073CDF,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",3073CCE,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",306AB89,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,National Instrument,,,,,"March 10, 2015",30627AF,,/,,Inactive,1,0,Engr. Romano Pimentel,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D) Newly Acquired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TOTAL:,,,,0,,,,,,,,,,,,C,,,X,,,X,,,X,,,C,,,X,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Prepared by:,,,Noted by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOHN PAUL O. MANAHAN,,,JESTONI ROSAL,,,HOLDEN CULTURA,,TITA BALBIN-ALBAY,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ Laboratory Technician,,,"Head, Callibration Unit",,,"Head, Repair & Maintenance Unit",,"Head, Laboratory Technician Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Approved by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DR. GINA C. LACANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Director, LMO",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

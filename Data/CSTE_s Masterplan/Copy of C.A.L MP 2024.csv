@@ -1,0 +1,85 @@
+"Republic of the Philippines
+University of Science and Technology of Southern Philippines
+Alubijid | Cagayan de Oro | Claveria | Jasaan | Oroquieta | Panaon
+Laboratory Management Office – CDO Campus
+C.M Recto Avenue, Lapasan, Cagayan de Oro City",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,INVENTORY,,,,,,,,,,,,PREVENTIVE MAINTENACE,,,,,,,,,,,,,CORRECTIVE MAINTENANCE,,,,,,,,,,,,,CALIBRATION,,,,,,,,,,,,,,,,,,
+COLLEGE OF SCIENCE EDUCATION AND TECHNOLOGY,,,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,,,,,,
+CULINARY ARTS LABORATORY BUILDING 18 ROOM 103,,,,,,,,,,,,,,,C - Complete,,,,,,INC - Incomplete,,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Next Calibration,,,,,,,,,,,,,,,,,,
+MACHINES/EQUIPMENT/INSTRUMENTS (MEI'S) MASTER PLAN FY 2024,,,,,,,,,,,,,,,X - Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P - Performed,,,,,,,,,,,,,,,,,,
+No.,Manufacturer/Brand,Particular's/Name of MEI's,Type Model,QTY,Unit,Aquisition Aquired ,Serial/Product No. ,Price (Php),Condition Please Put (/),,"Status (Inactive, Active, Defective)",User Manual Code (0/1),Callibration Code (0/1),Memorandum Receipt (Name of Person),JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,CALIBRATION FREQUENCY,DATE CALIBRATED,CALIBRATION DUE ,CERTIFICATE NO.,TRACEABILITY,TYPE OF CALIBRATION,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,REMARKS / STATUS
+,,,,,,,,,Functional,Non-Functional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A) Frequently Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,Heavy-duty Electric Mixer,,2,PCS,03/13/2017,17-1 06 05 140-005 to1,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+2,,Dough Roller,,1,PC,03/13/2017,17-1 06 05 140-006,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+3,,Proofing Cabinet,,2,PCS,03/13/2017,17-1 06 07 010-003 to1,,/,,ACTIVE,,1,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+4,,Fueled Oven (Convection Oven),,1,PC,03/14/2017,17-1 06 05 140-009,,/,,ACTIVE,,1,MS. SERMONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+5,,Oysterizer/Blender,,2,PCS,11/16/2015,15-1 06 05 110-182 to 2,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+6,,2 Doors Upright Stainless Chiller,,1,PC,11/16/2015,15-1 06 05 110-185 ,,/,,ACTIVE,,1,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated / Request to be added to the next calibration schedule
+7,,2 Doors Upright Stainless Freezer,,2,PCS,11/16/2015,15-1 06 05 110-184 ,,/,,ACTIVE,,1,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated / Request to be added to the next calibration schedule
+8,,Kneading Table,,1,PCS,11/16/2015,15-1 06 05 110-186 to 2,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+9,,Mobile Cooling Rack,,3,PCS,11/16/2015,15-1 06 05 110-188 ,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+10,,2 Open Top Burner (High Pressure),,1,PC,11/16/2015,15-1 06 05 110-196,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+11,,2 Open Top Burner (Low Pressure),,1,PC,11/16/2015,15-1 06 05 110-197,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+12,,"Diswashing Table with 3 sinks, over-shelves,a nd Pre-rinse Faucet",,2,PCS,11/16/2015,15-1 06 07 010-131 to 1,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+13,,4 Open Top Range with Oven (Convection Oven),,4,PCS,11/16/2015,15-1 06 05 110-202 to 3,,/,,ACTIVE,,1,MS. SERMONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated / Request to be added to the next calibration schedule
+14,,Preparation Table w/ 1 Sink and Overshelves,,3,PCS,11/16/2015,15-1 06 07 010-130 ,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+15,,"Preparation Table with Mid, Bottomshelves & Double Overshelves",,3,PCS,11/16/2015,15-1 06 07 010-129 ,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+16,,Grease Trap,,2,PCS,11/16/2015,15-1 06 05 110-199 to 1,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+17,,Reach-In-Freezer,,1,PC,11/16/2015,15-1 06 05 110-205,,/,,ACTIVE,,1,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated / Request to be added to the next calibration schedule
+18,,Drying Rack,,1,PC,11/16/2015,15-1 06 05 110-204,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+19,,Refrigerator Condura,,1,PC,2008,121200063M,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated / Request to be added to the next calibration schedule
+B)  Moderately Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,,Combi Griddle and Charcoal Broiler,,2,,11/16/2015,15-10605110-201 to 1,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+21,,Flour Bin,,1,,11/16/2015,15-10605110-187,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+22,,2 Deck Gas Baking Oven ,,1,,11/16/2015,15-10605110-189,,/,,ACTIVE,,1,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not calibrated / Request to be added to the next calibration schedule
+24,,2 Open-range,,1,,11/16/2015,15-1 06 05 110-190 ,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+25,,"Smoking Cabinet
+",,1,,03/13/2017,17-1 06 07 010-002,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+26,,"Dough Sheeter
+",,1,,03/13/2017,17-1 06 05 140-007,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+C) Rarely Used ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,Meat Slicer,,1,,03/13/2017,17-1 06 05 140-011,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+28,,Patisserie Display Cabinet,,2,,11/16/2015,15-1 06 07 010-127 to 2,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+29,,Commercial Bread Slicer Machine,,1,,11/16/2015,15-1 06 05 110-183 ,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+30,,Buffet Bain Marie,,1,,11/16/2015,15-1 06 05 110-191,,INC,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+31,,Rice Cooker 50 cups,,1,,11/16/2015,15-1 06 05 110-193,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+32,,Rice Cooker Stand,,1,,11/16/2015,15-1 06 05 110-192,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+33,,Slop Sink,,1,,11/16/2015,15-1 06 05 110-200,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+34,,Salamander Broiler,,4,,11/16/2015,15-1 06 05 110-203 to 3,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+35,,Salamander Support Rack,,4,,11/16/2015,15-5 02 13 040-008 to1,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+36,,Coffee Maker,,1,,,,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+37,,Juicer,,3,,03/13/2017,17-1 04 05 130-005 to1,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+Defected,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,,Meat Grinder,,1,,03/13/2017,17-1 06 05 140-010,,,/,DEFECTIVED,,0,MS. SERMONA,D,,,D,,,D,,,D,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+39,,Patisserie Display Cabinet,,1,,11/16/2015,15-1 06 07 010-127 to 2,,,/,DEFECTIVED,,0,MS. SERMONA,INC,,,INC,,,INC,,,INC,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+TOTAL MEI'S:,,,,63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D) Newly Acquired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+E) Fix and Furniture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,"Mono block, white",,30,,,,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,,"Armed Chair, blue",,37,,,,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,,Air-conditioning unit,,1,,2009,130020422,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,,Telephone,,1,,2010,NONE,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,,ACER Desktop,,1,,01/30/2016,16-10605030-006,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,,Demonstration Mirror,,1,,11/16/2015,15-1 06 07 010-134,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,,Flat Screen TV,,1,,PTA,PTA,,/,,ACTIVE,,0,MS. SERMONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Prepared by:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+JOVY ANN L. DIONALDO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ Laboratory Technician,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Noted by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TITA BALBIN-ALBAY,,,HOLDEN CULTURA,,,JESTONI ROSAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Head, Laboratory Technician Unit",,,"Head, Repair & Maintenance Unit",,,"Head, Callibration Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Approved by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DR. GINA C. LACANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Director, LMO",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

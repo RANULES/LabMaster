@@ -1,0 +1,56 @@
+"Republic of the Philippines
+University of Science and Technology of Southern Philippines
+Alubijid | Cagayan de Oro | Claveria | Jasaan | Oroquieta | Panaon
+Laboratory Management Office – CDO Campus
+C.M Recto Avenue, Lapasan, Cagayan de Oro City",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,INVENTORY,,,,,,,,,,,,PREVENTIVE MAINTENACE,,,,,,,,,,,,,CORRECTIVE MAINTENANCE,,,,,,,,,,,,,CALIBRATION,,,,,,,,,,,,,,,,,,
+COLLEGE OF ENGINEERING & ARCHETICTURE,,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,LEGENDS:,,,,,,,,,,,,,,,,,,
+MECHINCAL ENGINEERING LABORATORY BUILIDNG 42 ROOM 201 & BUILDING 5 ROOM 105,,,,,,,,,,,,,,C - Complete,,,,,,INC - Incomplete,,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Schedule,,,,,,,,P - Performed,,,,,X - Next Calibration,,,,,,,,,,,,,,,,,,
+MACHINES/EQUIPMENT/INSTRUMENTS (MEI'S) MASTER PLAN FY 2024,,,,,,,,,,,,,,X - Schedule,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,P - Performed,,,,,,,,,,,,,,,,,,
+No.,Manufacturer/Brand,Particular's/Name of MEI's,Type Model,QTY,Unit,Aquisition Aquired ,Serial/Product No. ,Price (Php),Condition Please Put (/),,User Manual Code (0/1),Callibration Code (0/1),Memorandum Receipt (Name of Person),JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,STATUS,CALIBRATION FREQUENCY,DATE CALIBRATED,CALIBRATION DUE ,CERTIFICATE NO.,TRACEABILITY,TYPE OF CALIBRATION,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,REMARKS / STATUS
+,,,,,,,,,Functional,Non-Functional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A) Frequently Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,MARS LAB/EIE,BLOWER TEST RIG,STF-TSE,SET,1,8/19/2015,150303,"312,799",/,,1,1,"ANTONIO ABDO SAMIL M. MANGONMANG D,Eng",C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+2,MARS LAB/EDIBON, REYNOLDS APPARATUS,FME05,SET,1,8/19/2015,FME060150/11,"338,789",/,,1,1,"ANTONIO ABDO SAMIL M. MANGONMANG D,Eng",C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+3,MARS LAB/ESSOM,MINI STEAM TURBINE POWER PLANT,TH130,SET,1,8/19/2015,15657,"5,,876,246",/,,1,1,LEONEL PABILONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+4,MARS LAB/EIE,COMPRESSORTEST RIG,STF-TSE,SET,1,8/19/2015,140900482,"328,393",/,,1,1,ANTONIO ABDO SAMIL M. MANGONMANG D.Eng.,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+5,MARS LAB/EIE,PUMP TEST RIG,4432,SET,1,8/19/2015,15-1 06 05 140-017,"203,241",/,,1,1,ANTONIO ABDO SAMIL M. MANGONMANG D.Eng.,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+6,MARS LAB/ESSOM,DIESEL ENGINE TEST BED,DHBSOL,SET,1,8/19/2015,A130527,"3.121,628",/,,1,1,LEONEL PABILONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+7,MARS LAB/ESSOM,GASOLINE ENGINE TEST BED,GX-200,SET,1,8/19/2015,1309D303172,"2,568,638",/,,1,1,LEONEL PABILONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+8,HYTEC POWER INC./LAB AIDS,BOMB CALORIMETER,OPT 17 19,SET,1,12/19/2016,140814,"196,351",,/,1,1,LEONEL PABILONA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+9,MARS LAB/EIE,BOMB CALORIMETER,NO STICKER,SET,1,8/19/2015,H81300765STF,"187,609",,/,1,1,SHANANI LAGURA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+10,MARS LAB/HILTON,HYGROMETER,H813,SET,1,8/19/1015,15-1 06 05 140-012-1,"258,927",,,1,1,SHANANI LAGURA,C,,,C,,,X,,,X,,,P,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+11,MARS LAB/HILTON,HYGROMETER,H813,SET,1,8/19/2015,H81300842,"258,927",/,,1,1,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+12,MARS LAB/OMEGA,VISCOMETER,RVB-1B,SET,1,8/19/2015,2913-4-X05,"625,277",/,,1,1,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+13,MARS LAB/OMEGA,FLASH AND FIRE POINT,NO STICKER,SET,1,8/19/2015,150310B,"398,049",/,,1,1,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+14,HYTEC POWER INC./LAB AIDS,FLASH AND FIRE POINT,OPT-17 07,SET,1,8/19/20156,537/HP/BC/02/02/2K16,"208,181",/,,1,1,LEONEL PABILONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+15,MARS LAB/PLACOM,DIGITAL PLANIMETER,KP-90N,SET,1,8/19/2015,15296STF,"70,353",/,,1,1,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+16,MARS LAB/PLACOM,DIGITAL PLANIMETER,KP-90N,SET,1,8/19/2015,15297STF,"70,353",,/,1,1,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+B)  Moderately Used,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,MARS LAB/OMEGA,DEAD WEIGTH TESTER,NO STICKER,SETS,2,8/19/15,DWT12792,"439,362",,/,0,0,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+18,MARS LAB/OMEGA,DEAD WEIGTH TESTER,NO STICKER,SET,1,8/19/15,15-1 06 05 140-023-1,"439,362",,/,0,0,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,No need for calibration
+19,HYTEC POWER INC/YALONG,A/C & REFRIGERATOR ASSEMBLING & DEBUGGING TRAINER,YL-818-HPI,SET,1,12/18/16,YL-SIS-HDL,"605,804",,/,0,1,LEONEL PABILONA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+,,,,,,,,,,,,,,,,,C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated / Request to be added to the next calibration schedule
+20,MARS LAB,ORSAT GAS APPARATUS,NO STICKER,SET,1,8/19/2015,NO STICKER,NO STICKER,/,,0,0,SHANANI LAGURA,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,,SUPPLY OF INSTRUMENT,NO STICKER,SET,1,,NO STICKER,NO STICKER,,/,0,0,NO STICKER,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,n/a
+D) Newly Acquired,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,n/a
+22,TECQUIPMENT/TD200,SMALL ENGINE TEST SET,VDAS DVF1,SET,1,1/10/2023,TQ345309 002,"9,918,000",/,,1,1,NO STICKER,C,,,C,,,X,,,X,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Not Calibrated
+TOTAL MEI'S:,,,,,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Prepared by:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+RENALD OLANO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ Laboratory Technician,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Noted by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+TITA BALBIN-ALBAY,,,HOLDEN CULTURA,,,,JESTONI ROSAL,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Head, Laboratory Technician Unit",,,"Head, Repair & Maintenance Unit",,,,"Head, Callibration Unit",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Approved by: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+DR. GINA C. LACANG,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Director, LMO",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
